@@ -1,0 +1,14 @@
+﻿  Building Custom Rule C:/Users/tomre/Documents/CSC8503/OpenGLRendering/CMakeLists.txt
+  OGLComputeShader.h
+  OGLMesh.h
+  OGLRenderer.h
+  OGLShader.h
+  OGLTexture.h
+  OGLComputeShader.cpp
+  OGLMesh.cpp
+  OGLRenderer.cpp
+  OGLShader.cpp
+  OGLTexture.cpp
+  gl.h
+  gl.c
+  OpenGLRendering.vcxproj -> C:\Users\tomre\Documents\CSC8503\x64\Debug\OpenGLRendering.lib
